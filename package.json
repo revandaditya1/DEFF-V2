@@ -1,7 +1,7 @@
 {
-  "name": "DEFF",
+  "name": "Vanzz",
   "version": "0.0.1",
-  "description": "DEFFBOTZ",
+  "description": "Number Bot",
   "main": "main.js",
   "directories": {
     "lib": "lib"
